@@ -38,3 +38,7 @@ next-env.d.ts
 # added by user
 .env
 _secrets
+
+_backups/
+
+pocketbase/
