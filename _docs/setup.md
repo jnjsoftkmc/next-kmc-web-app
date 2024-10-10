@@ -42,3 +42,9 @@ Installing devDependencies:
 cd C:\JnJ-soft\Projects\external\next-kmc-web-app
 github -e pushRepo -u jnjsoftkmc -n next-kmc-web-app -d "한의원 웹앱 NEXT.JS"
 ```
+
+## vscode
+
+### 폴더, 파일 구조
+
+
